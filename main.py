@@ -13,7 +13,4 @@ def fib(n):
         return fib(n-1) + fib(n-2)
 
 
-def main():
-	fib(10)
-
-main()
+fib(10)
