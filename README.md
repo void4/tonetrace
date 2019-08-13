@@ -2,6 +2,10 @@
 
 Tested on Ubuntu.
 
+## Showcase
+
+[![Watch the video](https://img.youtube.com/vi/KZMMkvmCJZA/maxresdefault.jpg)](https://youtu.be/KZMMkvmCJZA)
+
 ## Installation
 ```
 git clone https://github.com/void4/tonetrace.git
